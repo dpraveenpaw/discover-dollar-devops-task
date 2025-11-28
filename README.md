@@ -367,6 +367,7 @@ On every push to main, GitHub Actions will:
 •	Build backend and frontend Docker images.
 •	Push them to Docker Hub (dpraveenpaw/dd-backend:latest, dpraveenpaw/dd-frontend:latest).github+1
 •	SSH into EC2 as ubuntu and run cd dd-task && docker compose pull && docker compose up -d, updating the running containers automatically
+<img width="940" height="416" alt="image" src="https://github.com/user-attachments/assets/7abe734c-914e-4850-8332-05c35005d21c" />
 
 D PRAVEEN
 D.PRAVEEN4YOU@GMAIL.COM
