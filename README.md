@@ -24,6 +24,19 @@ Run `ng serve --port 8081`
 
 You can modify the `src/app/services/tutorial.service.ts` file to adjust how the frontend interacts with the backend.
 
+Extract ZIP
+
+text
+Right click ZIP → "Extract All" 
+OR
+Double click ZIP → copy 2 folders inside
+<img width="1320" height="322" alt="image" src="https://github.com/user-attachments/assets/30e52c28-dc43-4702-b771-f79dbce9f08d" />
+
+Open Command Prompt/Terminal
+cd Desktop/crud-dd-task-mean-app/backend
+npm install
+npm start
+
 Navigate to `http://localhost:8081/`
 
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/ee2f5e79-6a3b-46b1-922f-ee6a859b5fa5" />
